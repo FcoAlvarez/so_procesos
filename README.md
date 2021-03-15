@@ -1,29 +1,22 @@
-# README #
+# Codigos para practicas de sistemas operativos vistos en clase
+Dr. Carlos Fco Alvarez Salgado
 
-This README would normally document whatever steps are necessary to get your application up and running.
+compilacion en linux con gcc
 
-### What is this repository for? ###
+Lista de programas:
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+- Programas de prueba
+    - hola.c
+        - Hola mundo para prueba de ambiente de compilacion
+- Programas Base
+    - ArbolProcesos.c
+    - fork_complejo.c
+    - fork_no_simple.c
+    - fork_no_simple_2.c
+    - fork_simple.c
+    - jerarquia_1.c
+    - jerarquia_2.c
+    - params.c
+    - procesos_fork.c
+## Referencias
+Sistemas Operativos Modernos de Andrew S. Tanenbaum 
